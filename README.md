@@ -1,1 +1,1 @@
-# IntroToGit
+# UG-Git
